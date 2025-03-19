@@ -1,0 +1,1 @@
+console.log("\nhellow word!\n");
